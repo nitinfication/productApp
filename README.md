@@ -39,7 +39,7 @@ The app is built using SwiftUI for a modern, reactive user interface.
 
 ## Demo
 
-Check out the [ProductApp Demo](https://drive.google.com/file/d/1nGFPDvzFPhwMeZUVXy4acBKs-U5h-03w/view?usp=sharing)).
+Check out the [ProductApp Demo](https://drive.google.com/file/d/1nGFPDvzFPhwMeZUVXy4acBKs-U5h-03w/view?usp=sharing).
 
 ## Contributing
 
