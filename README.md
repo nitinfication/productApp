@@ -37,6 +37,10 @@ The app is built using SwiftUI for a modern, reactive user interface.
 - **SwiftUI:** For building the user interface.
 - **Foundation:** For basic utilities and data manipulation.
 
+## Demo
+
+Check out the [ProductApp Demo]([https://drive.google.com/file/d/your-demo-file-id/view?usp=sharing](https://drive.google.com/file/d/1nGFPDvzFPhwMeZUVXy4acBKs-U5h-03w/view?usp=sharing)).
+
 ## Contributing
 
 We welcome contributions to improve the app. To contribute, follow these steps:
